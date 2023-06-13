@@ -39,7 +39,15 @@ messages = [
 尽管ChatGPT通常能够生成高质量的文本，但有时它可能会产生一些不相关或者不准确的信息，可以使用 NLU(Natural Language Understanding) 等后处理策略优化输出
 
 1. 过滤不相关的输出
-- 关键词方法：TF-IDF(term frequency and inverse document frequency) or Word2Vec，度量词与词之间的相似性
+- 关键词方法：TF-IDF(term frequency and inverse document frequency) 或 Word2Vec
+- 主题建模：将文档表示为主题的集合，更能理解文档的结构和内容进而比较不同文档的相似性,LSA and LDA
+- 使用时可以需要一个阈值，当相似度低于这个阈值时，我们可以解释为回复相关性不强
+
+2. 知识图谱检查回答准确性
+- 
+
+知识图谱效果图：
+![知识图谱效果图](kg.png)
 
 
 ## 考虑用户体验
