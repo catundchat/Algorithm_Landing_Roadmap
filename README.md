@@ -1,6 +1,8 @@
 # Algorithm_Business
 
-As an algorithm engineer, thinking about how to help company's business get off the ground | 算法工程师如何结合业务将模型算法迅速落地
+As an algorithm engineer, thinking about how to help company's business get off the ground
+
+算法工程师如何结合业务将模型算法迅速落地
 
 本文语境：微信小程序——AI爱家
 
