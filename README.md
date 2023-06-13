@@ -40,7 +40,8 @@ messages = [
 
 1. 过滤不相关的输出
 - 关键词方法：TF-IDF(term frequency and inverse document frequency) or Word2Vec，度量词与词之间的相似性
-- 
+
+
 ## 考虑用户体验
 
 确保你的应用易于使用，回应速度快，并且尽可能提供有用的反馈。此外，考虑用户的隐私和安全问题，确保用户的对话内容得到保护。
