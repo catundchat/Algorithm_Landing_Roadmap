@@ -93,10 +93,10 @@ messages = [
 3. 查询数据库，构建辅助模型来整合信息：选择微调后的 BERT 模型来提取关键信息，将查询到的结果整合到输出中，我们可以在 ChatGPT 的回答后添加类似句段诸如 `我们在数据库中还为你找到了以下信息等`
 
 ## 参考文献
-1.[算法工程师的核心竞争力——落地能力](https://cloud.tencent.com/developer/article/2117248?from=article.detail.1796795&areaSource=106000.1&traceId=UfHfB6AIB2VYRKaltQrJs)
-2.[neo4j构建知识图谱](https://www.jianshu.com/p/d4175930e820)
-3.[中文情感词典的构建与使用_文本情感识别](https://cloud.tencent.com/developer/article/2119441)
-4.[NLP 民工乐园](https://github.com/fighting41love/funNLP)
-5.[python中文分词jieba库](https://github.com/fxsjy/jieba)
-6.[10分钟完成高精度中文情感分析](https://paddlenlp.readthedocs.io/zh/latest/get_started/quick_start.html)
-7.[关于ChatGPT：GPT和BERT的差别（易懂版）](https://zhuanlan.zhihu.com/p/607605399)
+1. [算法工程师的核心竞争力——落地能力](https://cloud.tencent.com/developer/article/2117248?from=article.detail.1796795&areaSource=106000.1&traceId=UfHfB6AIB2VYRKaltQrJs)
+2. [neo4j构建知识图谱](https://www.jianshu.com/p/d4175930e820)
+3. [中文情感词典的构建与使用_文本情感识别](https://cloud.tencent.com/developer/article/2119441)
+4. [NLP 民工乐园](https://github.com/fighting41love/funNLP)
+5. [python中文分词jieba库](https://github.com/fxsjy/jieba)
+6. [10分钟完成高精度中文情感分析](https://paddlenlp.readthedocs.io/zh/latest/get_started/quick_start.html)
+7. [关于ChatGPT：GPT和BERT的差别（易懂版）](https://zhuanlan.zhihu.com/p/607605399)
