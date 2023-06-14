@@ -62,7 +62,7 @@ messages = [
 <details>
 <summary>知识图谱效果图：</summary>
 
-![知识图谱效果图1](junjie_knowledge_graph.JPG)
+![知识图谱效果图1](junjie_knowledge_paragraph.jpg)
 
 ![知识图谱效果图2](kg.png)
 </details>
