@@ -1,4 +1,4 @@
-# Algorithm landing
+# Algorithm Landing
 
 算法落地 | 后处理策略 | RLHF
 
