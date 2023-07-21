@@ -105,4 +105,4 @@ messages = [
 5. [python中文分词jieba库](https://github.com/fxsjy/jieba)
 6. [10分钟完成高精度中文情感分析](https://paddlenlp.readthedocs.io/zh/latest/get_started/quick_start.html)
 7. [关于ChatGPT：GPT和BERT的差别（易懂版）](https://zhuanlan.zhihu.com/p/607605399)
-8. [HuggingFace RLHF](#https://huggingface.co/blog/zh/rlhf)
+8. [HuggingFace RLHF](https://huggingface.co/blog/zh/rlhf)
