@@ -1,4 +1,4 @@
-# Algorithm Landing
+# Algorithm Landing Roadmap
 
 算法落地 | 后处理策略 | RLHF
 
@@ -94,6 +94,7 @@ messages = [
 1. 构建知识图谱检查AI爱家回答的准确性
 
 2. 预处理和索引数据库：具体包括在本地实现文本清洗，分词，构建索引，将数据输入到全文搜索引擎。Dify使用 OpenAI 的 Embedding 接口或是离线向量引擎来构建知识库，我们也可以将知识库在本地搭建起来
+
 3. 查询数据库，构建辅助模型来整合信息：选择微调后的 BERT 模型来提取关键信息，将查询到的结果整合到输出中，我们可以在 ChatGPT 的回答后添加类似句段诸如 `我们在数据库中还为你找到了以下信息等`
 
 ## 参考文献
@@ -104,3 +105,4 @@ messages = [
 5. [python中文分词jieba库](https://github.com/fxsjy/jieba)
 6. [10分钟完成高精度中文情感分析](https://paddlenlp.readthedocs.io/zh/latest/get_started/quick_start.html)
 7. [关于ChatGPT：GPT和BERT的差别（易懂版）](https://zhuanlan.zhihu.com/p/607605399)
+8. [HuggingFace RLHF](#https://huggingface.co/blog/zh/rlhf)
